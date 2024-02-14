@@ -13,7 +13,7 @@ def linear_search(arr, value):
                 return (index, i)
     return -1
 
-print(f"Result for search: {linear_search(names, 'Jill')}")  # 3
+print(f"Result for search: {linear_search(names, 'Jill')}")  #(0, 3)
 
 # enum = enumerate(names)
 # for indice, col in enum:
