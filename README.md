@@ -5,7 +5,7 @@ This repo is used for learning and training purposes. It contains the basic data
 ## Data Structures
 
 - [Linked List]()
-- [Stack](./stack/stack.py)
+- [Stack](./data-structure/02-stack/stack.py)
 - [Queue]()
 - [Tree]()
 - [Graph]()
