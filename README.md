@@ -4,9 +4,10 @@ This repo is used for learning and training purposes. It contains the basic data
 
 ## Data Structures
 
-- [Linked List]()
+- [Linked List](./data-structures/05-linked_list/linked_list.py)
 - [Stack](./data-structure/02-stack/stack.py)
-- [Queue]()
+- [Queue](./data-structures/03-queue/queue.py)
+- [PriorityQueue](./data-structures/04-priority_queue/priority_queue.py)
 - [Tree]()
 - [Graph]()
 - [Hash Table]()
